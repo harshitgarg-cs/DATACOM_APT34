@@ -23,5 +23,9 @@ APT34's primary motives are cyber espionage & intelligence gathering. Their acti
 APT34 is known for employing a wide range of Tactics, Techniques, and Procedures (TTPs) to conduct their attacks, including:
 - ***Phishing & Social Engineering:*** They often use spear-phishing emails to trick individuals into downloading malware or providing credentials.
 - ***Custom Malware:*** APT34 has developed and deployed various custom malware tools such as *POISONFANG, Caterpillar Webshell, and TwoFace.*
+- ***Credential Harvesting:*** They focus on stealing login credentials through phishing, keylogging, and other methods.
+- ***Web Shells:*** They deploy web shells to maintain persistence and control over compromised web servers.
+- ***Exploitation of Vulnerabilities:*** APT34 is known to exploit unpatched vulnerabilities in software and systems to gain initial access and escalate privileges.
+- ***Command and Control (C2) Infrastructure:*** They use various C2 servers to maintain communication with compromised systems, often employing encryption to evade detection.
 
 ### What security measures could the client implement to defend against cyberattacks conducted by this APT?
