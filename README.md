@@ -17,8 +17,10 @@ APT34 targets specific industries, particularly those that align with Iran's str
 - Engineering & Construction
 
 ### What are their motives?
-
+APT34's primary motives are cyber espionage & intelligence gathering. Their activities often involve stealing sensitive information, intellectual property, and strategic data from targeted organizations. These efforts are typically in line with Iran's geopolitical interests, such as gaining intelligence on rival nations, supporting state-sponsored operations, and advancing national capabilities in critical industries.
 
 ### What are the TTPs they use to conduct their attacks?
+APT34 is known for employing a wide range of Tactics, Techniques, and Procedures (TTPs) to conduct their attacks, including:
+- ***Phishing & Social Engineering:*** They often use spear-phishing emails to trick individuals into downloading malware or providing credentials.
 
 ### What security measures could the client implement to defend against cyberattacks conducted by this APT?
