@@ -22,6 +22,6 @@ APT34's primary motives are cyber espionage & intelligence gathering. Their acti
 ### What are the TTPs they use to conduct their attacks?
 APT34 is known for employing a wide range of Tactics, Techniques, and Procedures (TTPs) to conduct their attacks, including:
 - ***Phishing & Social Engineering:*** They often use spear-phishing emails to trick individuals into downloading malware or providing credentials.
-- ***Customn Malware:***
+- ***Custom Malware:*** APT34 has developed and deployed various custom malware tools such as *POISONFANG, Caterpillar Webshell, and TwoFace.*
 
 ### What security measures could the client implement to defend against cyberattacks conducted by this APT?
